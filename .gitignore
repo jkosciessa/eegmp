@@ -1,0 +1,15 @@
+# do not consider anything
+
+*
+
+# except for files and directories
+
+!*.*
+!*/
+
+# with the following exclusions
+
+*.m~
+*.DS_Store
+*._*
+*~*
