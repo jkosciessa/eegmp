@@ -1,7 +1,3 @@
-[submodule "eegmp_analysis"]
-	path = eegmp_analysis
-	url = git@gin.g-node.org:/juliankosciessa/eegmp_analysis.git
-	datalad-id = fd798773-2e41-4ba3-9601-4a3d928da28a
 [submodule "eegmp_data"]
 	path = eegmp_data
 	url = git@gin.g-node.org:/juliankosciessa/eegmp_data.git
