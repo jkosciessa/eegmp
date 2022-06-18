@@ -1,1 +1,31 @@
-.git/annex/objects/VX/wF/MD5E-s827--890fac2cf1292991e9b88ea4a4e3fdd3.yaml/MD5E-s827--890fac2cf1292991e9b88ea4a4e3fdd3.yaml
+#<!-- METADATA START --> # DO NOT DELETE THIS LINE
+dataset:
+  # short name or label
+  name: EEGmanypipelines superdataset
+
+  # current location of the dataset
+  location: https://github.com/jkosciessa/TBD
+
+  # summary of purpose and content of the dataset
+  description:
+    "How do variations in EEG preprocessing pipelines influence statistical inference? This is one contribution to the project."
+
+  # optional list of keyword/phrase
+  keyword:
+    - Neuroscience
+    - Electrophysiology
+    - EEGmanypipelines
+
+  author:
+    - kosciessa@mpib-berlin.mpg.de
+    
+  funding:
+    - Max Planck UCL Center for Computational Psychiatry and Ageing Research
+
+person:
+  kosciessa@mpib-berlin.mpg.de:
+    given_name: Julian
+    last_name: Kosciessa
+    orcid-id: 0000-0002-4553-2794
+
+#<!-- METADATA END -->  # DO NOT DELETE THIS LINE
