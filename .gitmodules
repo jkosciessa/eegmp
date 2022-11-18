@@ -1,13 +1,13 @@
 [submodule "eegmp_data"]
 	path = eegmp_data
-	url = git@gin.g-node.org:/juliankosciessa/eegmp_data.git
+	url = https://gin.g-node.org/juliankosciessa/eegmp_data.git
 	datalad-id = 0200add5-391d-428e-ba1f-e3e9faa77ba8
 [submodule "eegmp_preproc"]
 	path = eegmp_preproc
-	url = git@gin.g-node.org:/juliankosciessa/eegmp_preproc.git
+	url = https://gin.g-node.org/juliankosciessa/eegmp_preproc.git
 	datalad-id = f8a25312-e4a9-46e4-b2b1-79a0d627f2f4
 [submodule "eegmp_analysis"]
 	path = eegmp_analysis
-	url = git@gin.g-node.org:/juliankosciessa/eegmp_analysis.git
+	url = https://gin.g-node.org/juliankosciessa/eegmp_analysis.git
 	datalad-id = fd798773-2e41-4ba3-9601-4a3d928da28a
-	datalad-url = git@gin.g-node.org:/juliankosciessa/eegmp_analysis.git
+	datalad-url = https://gin.g-node.org/juliankosciessa/eegmp_analysis.git
